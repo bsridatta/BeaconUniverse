@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "658035841263",
+    "firebase_url": "https://amudalabsmartsenses.firebaseio.com",
+    "project_id": "amudalabsmartsenses",
+    "storage_bucket": "amudalabsmartsenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658035841263:android:a84569ff3465b498",
+        "android_client_info": {
+          "package_name": "com.estimote.proximitycontent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658035841263-if1kaj0otdou2pbfigak91l8r67v90vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estimote.proximitycontent",
+            "certificate_hash": "3be48bb3db7de5fd55d4589ff9e803966083197e"
+          }
+        },
+        {
+          "client_id": "658035841263-tthq6vouhq64ipcn9caoq0d3693842hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-VeeRmDjSKbwbNBL0Cm0cOujeHfLD568"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658035841263-tthq6vouhq64ipcn9caoq0d3693842hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658035841263:android:e27f1e19ae16952c",
+        "android_client_info": {
+          "package_name": "com.c.c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658035841263-tthq6vouhq64ipcn9caoq0d3693842hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-VeeRmDjSKbwbNBL0Cm0cOujeHfLD568"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

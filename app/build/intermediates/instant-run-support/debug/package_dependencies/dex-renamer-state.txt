@@ -1,0 +1,7 @@
+#Sat Mar 03 11:01:39 IST 2018
+base.0=D\:\\Workspace\\Andoid studio stable files\\BeaconproximityC1W\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Workspace\\Andoid studio stable files\\BeaconproximityC1W\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
